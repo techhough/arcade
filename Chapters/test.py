@@ -10,5 +10,3 @@ class Car(object):
 mustang = Car('Ford', 'Mustang')
 print mustang.wheels
 # 4
-
-#This is a git test
