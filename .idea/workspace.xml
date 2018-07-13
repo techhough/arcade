@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c16b25d0-07a2-45bc-9448-27b91cfec42c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter12 - classes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter12 - classes_video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter12 - constructors.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter12 - inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter12 - instanca_vs_static_variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter12 - methods_video.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter12 - references.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter13 - animate_3_balls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter13 - animate_a_ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter13 - classes_animation_user_control.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter13 - move_with_keyboard.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter13 - move_with_mouse.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter14 - sound.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter15 - sprites.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter5 - print.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter6 - drawing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter7 - functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/chapter7 - snowmen.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/images/character.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/images/coin_01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/sounds/laser.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Chapters/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code Samples/bouncing_rectangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code Samples/drawingShapesWithClasses.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code Samples/drawing_samples.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code Samples/images/IMG_0954.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code Samples/mudballTwoPlayerGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code Samples/numberGuessingGame.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code Samples/playground.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Code Samples/starting_template.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="chapter15 - sprites.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Chapters/chapter15 - sprites.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="723">
+              <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+              <folding>
+                <element signature="e#31#44#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="test.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Chapters/test.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="200">
+              <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>arcade.Window</find>
+      <find>Coin</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Code Samples/drawing_samples.py" />
+        <option value="$PROJECT_DIR$/Code Samples/misc.py" />
+        <option value="$PROJECT_DIR$/Code Samples/chapter5.py" />
+        <option value="$PROJECT_DIR$/Code Samples/chapter6.py" />
+        <option value="$PROJECT_DIR$/Code Samples/chapter7.py" />
+        <option value="$PROJECT_DIR$/Code Samples/drawingShapesWithClasses.py" />
+        <option value="$PROJECT_DIR$/Code Samples/chapter7 - snowmen.py" />
+        <option value="$PROJECT_DIR$/Code Samples/bouncing_rectangle.py" />
+        <option value="$PROJECT_DIR$/chapter8.py" />
+        <option value="$PROJECT_DIR$/Code Samples/NumberGuessingGame.py" />
+        <option value="$PROJECT_DIR$/Code Samples/mudballTwoPlayerGame.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter9.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter10.py" />
+        <option value="$PROJECT_DIR$/Code Samples/playground.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter12.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter12 - classes.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter12 - classes video.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter 12 - classes.py" />
+        <option value="$PROJECT_DIR$/chapter12 - ball class example.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter12 - ball class example.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter12 - methods.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter12 - references.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter12 - constructors.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter12 - inheritance.py" />
+        <option value="$PROJECT_DIR$/Chapters/test2.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter12 - instanca vs static variables.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter13.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter13 - classes animation user control.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter13 - encapsulation.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter13 - animate a ball.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter13 - animate 3 balls.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter13 - move_with_mouse.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter13 - move_with_keyboard.py" />
+        <option value="$PROJECT_DIR$/Code Samples/starting_template.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter14 - sound.py" />
+        <option value="$PROJECT_DIR$/Chapters/chapter15 - sprites.py" />
+        <option value="$PROJECT_DIR$/Chapters/test.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1801" />
+    <option name="y" value="163" />
+    <option name="width" value="1400" />
+    <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="arcadeacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcadeacademy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="arcadeacademy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="arcadeacademy" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapters" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Python" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\hough\PycharmProjects\arcadeacademy\Code Samples" />
+      <recent name="C:\Users\hough\PycharmProjects\arcadeacademy\Chapters" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.chapter15 - sprites">
+    <configuration name="chapter13 - move_with_keyboard" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="arcadeacademy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapters/chapter13 - move_with_keyboard.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="chapter14 - sound" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="arcadeacademy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapters/chapter14 - sound.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="chapter15 - sprites" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="arcadeacademy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapters/chapter15 - sprites.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="starting_template" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="arcadeacademy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Code Samples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Code Samples/starting_template.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="arcadeacademy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Chapters" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Chapters/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.chapter13 - move_with_keyboard" />
+      <item itemvalue="Python.starting_template" />
+      <item itemvalue="Python.chapter14 - sound" />
+      <item itemvalue="Python.chapter15 - sprites" />
+      <item itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.chapter15 - sprites" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.chapter14 - sound" />
+        <item itemvalue="Python.starting_template" />
+        <item itemvalue="Python.chapter13 - move_with_keyboard" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c16b25d0-07a2-45bc-9448-27b91cfec42c" name="Default" comment="" />
+      <created>1528094788624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528094788624</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15625" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.32912722" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32912722" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957938" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+    <layout-to-restore>
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15625" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32912722" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39957938" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+    </layout-to-restore>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter5.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter6.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter7.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter7 - snowmen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="578">
+          <caret line="34" column="44" selection-start-line="34" selection-start-column="44" selection-end-line="34" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code Samples/playground.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="63" selection-end-line="125" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code Samples/drawingShapesWithClasses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="32" lean-forward="true" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code Samples/drawing_samples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="20" column="34" lean-forward="true" selection-start-line="20" selection-start-column="34" selection-end-line="20" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code Samples/drawing_samples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code Samples/drawing_samples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+    <entry file="file://$PROJECT_DIR$/Code Samples/drawing_samples.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="425">
+          <caret line="25" column="18" selection-start-line="25" selection-start-column="18" selection-end-line="25" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code Samples/drawingShapesWithClasses.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter6.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter7.py" />
+    <entry file="file://$PROJECT_DIR$/chapter8.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/misc.py" />
+    <entry file="file://$PROJECT_DIR$/Code Samples/bouncing_rectangle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-697">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code Samples/numberGuessingGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="48" column="6" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Code Samples/mudballTwoPlayerGame.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="100" column="10" selection-start-line="100" selection-start-column="10" selection-end-line="100" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter9.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter10.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter12.py" />
+    <entry file="file://$PROJECT_DIR$/Code Samples/playground.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter7 - snowmen.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="11" column="27" lean-forward="true" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter 12 - classes.py" />
+    <entry file="file://$PROJECT_DIR$/chapter12 - ball class example.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter12 - methods.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter12 - references.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter12 - methods video.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter12 - instanca vs static variables.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter12 - inheritance.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="28" column="22" lean-forward="true" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter12 - constructors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter12 - classes.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40">
+          <caret line="2" column="22" selection-start-line="2" selection-start-column="22" selection-end-line="2" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter12 - classes video.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/test2.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter13.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter5.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter12 - ball class example.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter13 - encapsulation.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter13 - classes animation user control.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter13 - animate a ball.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter13 - move_with_mouse.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="370">
+          <caret line="52" column="52" selection-start-line="52" selection-start-column="52" selection-end-line="52" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter13 - animate 3 balls.py" />
+    <entry file="file://$PROJECT_DIR$/Code Samples/starting_template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="97" column="10" selection-start-line="97" selection-start-column="10" selection-end-line="97" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter12 - ball_class_example.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter13 - move_with_keyboard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-507">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter13 - classes_animation_user_control.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter14 - sound.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="13" lean-forward="true" selection-start-column="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://F:/Python game/coincollector.py" />
+    <entry file="file://$PROJECT_DIR$/Chapters/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="10" column="20" selection-start-line="10" selection-start-column="20" selection-end-line="10" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chapters/chapter15 - sprites.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="723">
+          <caret line="118" lean-forward="true" selection-start-line="118" selection-end-line="118" />
+          <folding>
+            <element signature="e#31#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
